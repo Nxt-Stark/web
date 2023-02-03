@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:wght@1;100;200;300;400;500;600;700;800;900;1000&display=swap');
+
+body, header {
+    background-color: rgb(240,240,240);
+    font-family: 'poppins', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #28A58E;
+  }
+
+.mainlogo img {
+    width: 45px;
+    padding-right: 5px;
+}
+
+.navbar-brand{
+    color: #28A58E;
+}
+
+.k{
+    height:100vh;
+    background: #28A58E;
+
+}
